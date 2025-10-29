@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Surya Vikas</h1>
 <h3 align="center">💻 Aspiring Software Developer | Tech Enthusiast | Web & Cloud Learner</h3>
 
-<p align="center"> <a href="https://suryavikas-portfolio.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="mailto:suryavikas1223@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/surya-vikas-thipirishetty-48a045204/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center">
+  <a href="https://suryavikas-portfolio.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:suryavikas1223@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/surya-vikas-thipirishetty-48a045204/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -45,8 +55,9 @@
 | 🌟 Project | 📜 Description | 🧩 Tech Stack |
 |:-----------:|:---------------|:--------------|
 | [**Feed The Need**](https://github.com/surya-vikas/feed-the-need) | Platform connecting food donors, NGOs & volunteers to minimize food waste | PHP · MySQL · Bootstrap |
-| [**Surya Bank (Python)**](https://github.com/surya-vikas/surya-bank) | Interactive banking system with complaint handling & card block features | Python |
-| [**Weather Forecast App**](https://github.com/surya-vikas/weather-forecast) | Real-time weather app with dynamic API-based backgrounds | React · Tailwind · API |
+| [**Civil Services Aspirants Club Website**](https://github.com/surya-vikas/csac-website) | Official website for CSAC SNIST featuring events, blogs, and resources | React · Tailwind · Vite |
+| [**Barcode Generator**](https://github.com/surya-vikas/barcode-generator) | Generates scannable barcodes instantly with custom text | Python · Tkinter |
+| [**Clash of Keys**](https://github.com/surya-vikas/clash-of-keys) | Fun interactive typing challenge web app | HTML · CSS · JavaScript |
 
 ---
 
