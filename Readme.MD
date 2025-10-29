@@ -54,9 +54,9 @@
 
 | 🌟 Project | 📜 Description | 🧩 Tech Stack |
 |:-----------:|:---------------|:--------------|
-| [**Feed The Need**](https://github.com/surya-vikas/feed-the-need) | Platform connecting food donors, NGOs & volunteers to minimize food waste | PHP · MySQL · Bootstrap |
+| [**Feed The Need**](https://github.com/surya-vikas/feed_the_need) | Platform connecting food donors, NGOs & volunteers to minimize food waste | PHP · MySQL · Bootstrap |
 | [**Civil Services Aspirants Club Website**](https://github.com/surya-vikas/csac-website) | Official website for CSAC SNIST featuring events, blogs, and resources | React · Tailwind · Vite |
-| [**Barcode Generator**](https://github.com/surya-vikas/barcode-generator) | Generates scannable barcodes instantly with custom text | Python · Tkinter |
+| [**Barcode Generator**](https://github.com/surya-vikas/barcode-genrator) | Generates scannable barcodes instantly with custom text | Python · Tkinter |
 | [**Clash of Keys**](https://github.com/surya-vikas/clash-of-keys) | Fun interactive typing challenge web app | HTML · CSS · JavaScript |
 
 ---
