@@ -5,7 +5,7 @@
   <a href="https://suryavikas-portfolio.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:manimaram781@gmail.com">
+  <a href="mailto:suryavikas1223@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/surya-vikas">
