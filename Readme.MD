@@ -74,9 +74,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=surya-vikas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-vikas&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-vikas&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
