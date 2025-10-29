@@ -1,20 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surya Vikas</h1>
 <h3 align="center">💻 Aspiring Software Developer | Tech Enthusiast | Web & Cloud Learner</h3>
 
-<p align="center">
-  <a href="https://suryavikas-portfolio.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:suryavikas1223@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/surya-vikas-thipirishetty-48a045204/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
+<p align="center"> <a href="https://suryavikas-portfolio.onrender.com/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="mailto:suryavikas1223@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/surya-vikas-thipirishetty-48a045204/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
 ---
 
