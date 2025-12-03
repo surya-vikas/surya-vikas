@@ -20,7 +20,7 @@
 - 🎓 B.Tech CSE student passionate about **building impactful software solutions**
 - 💡 Exploring **React, Node.js, and Cloud Computing**
 - 🚀 Enthusiastic about **AI-integrated web applications**
-- 🏆 Winner of **Hack-IT-On 2025 (₹6000 Prize)**
+- 🏆 Winner of **Hack-IT-On 2025**
 - 🧭 Executive Member – **Civil Services Aspirants Club (CSAC)**
 - ✨ Motto: *Code. Learn. Inspire.*
 
